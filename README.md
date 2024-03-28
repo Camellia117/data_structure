@@ -1,3 +1,3 @@
-# Data structure discord
+# Data structure 
 
 > continue...
