@@ -1,0 +1,3 @@
+/Users/whiting/Documents/data_structure/sum/build/CMakeFiles/My_Program.dir
+/Users/whiting/Documents/data_structure/sum/build/CMakeFiles/edit_cache.dir
+/Users/whiting/Documents/data_structure/sum/build/CMakeFiles/rebuild_cache.dir
